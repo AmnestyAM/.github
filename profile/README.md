@@ -55,7 +55,7 @@ The long-term goals of the project are to effectively ensure three key elements 
 
 * Fully Distributed - anyone can set up a mirror and host plugins;
 * Federated - you can join a network of mirrors and have access to their plugins (and yours to them)
-* Funded - there be an opportunity for commercial benefit for those who host mirrors, as well as providing open source
+* Funded - there will be an opportunity for commercial benefit for those who host mirrors, as well as providing open source
   contributions to the community.
 
 What this looks like in full is for discussion and planning of Phase 2 and beyond, but right now we need to focus on
